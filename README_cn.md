@@ -1,4 +1,4 @@
-[![](static/logo.svg)](https://bbs.myens.shop){:height="36px" width="36px"}
+<a href="https://bbs.myens.shop"><img src="static/logo.svg" width="300px" /></a>
 
 ![](https://img.shields.io/github/stars/huarxia/truffle-vue.svg)
 ![](https://img.shields.io/github/forks/huarxia/truffle-vue.svg)
