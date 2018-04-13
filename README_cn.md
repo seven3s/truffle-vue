@@ -43,5 +43,18 @@ $ truffle compile
 $ truffle migration
 $ npm run dev
 ```
+### develop shell
+
+> 编译智能合约
+
+```
+$ truffle compile
+```
+> 链接本地区块链
+
+```
+$ truffle migration
+```
+
 by [huaxia](https://github.com/huarxia)
 talk [bbs](https://bbs.myens.shop) for more info.

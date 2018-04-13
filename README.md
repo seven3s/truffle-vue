@@ -5,7 +5,7 @@ This box is a Vue based solidity Dapp development framework.
 
 ## Getting Started
 
-### Install truffle
+### Install
 
 > First
 
@@ -44,5 +44,19 @@ $ truffle compile
 $ truffle migration
 $ npm run dev
 ```
+### develop shell
+
+> compile
+
+```
+$ truffle compile
+```
+> migration
+
+```
+$ truffle migration
+```
+
+
 by [huaxia](https://github.com/huarxia)
 talk [bbs](https://bbs.myens.shop) for more info.
