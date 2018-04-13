@@ -55,6 +55,45 @@ $ truffle compile
 ```
 $ truffle migration
 ```
+## 使用gulp
+> 全局安装gulp
+
+```
+$ (sudo) npm install gulp -g
+```
+> 如果是第一次使用直接运行 gulp
+
+```
+$ gulp
+```
+> 如果是第二次
+
+```
+$ gulp start
+```
+### 包含哪些命令？
+
+```
+gulp // 首次运行
+gulp start // 再次运行
+gulp clean // 删除build包
+gulp compile // 执行 truffle compile
+gulp migrate // 本地开发部署智能合约
+gulp reset // 重新编译并部署本地智能合约
+gulp migrate-deploy // 使用infura 部署ropsten
+gulp deploy // 使用infura 部署ropsten 并在本地运行Dapp
+```
+### 感谢这些开源项目
+1. [truffle](https://github.com/trufflesuite/truffle)
+2. [Vue.js](http://vuejs.org/)
+3. [ganache-cli](https://github.com/trufflesuite/ganache-cli) 原testrpc
+4. [gulp](http://gulpjs.com/)
+5. [webpack](https://webpack.github.io/)
+6. [infura.io](https://infura.io/)
+7. [solidity](https://github.com/ethereum/solidity)
+8. [www.iviewui.com](https://www.iviewui.com)
+......
+
 
 by [huaxia](https://github.com/huarxia)
 talk [bbs](https://bbs.myens.shop) for more info.

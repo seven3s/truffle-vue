@@ -8,4 +8,4 @@
 const gulp = require('gulp');
 const shell = require('gulp-shell');
 var gulpSequence = require('gulp-sequence');
-gulp.task('reset', gulpSequence('clean', 'compile', 'migrate-deploy', 'start'));
+gulp.task('deploy', gulpSequence('clean', 'compile', 'migrate-deploy', 'start'));
