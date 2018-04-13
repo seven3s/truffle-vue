@@ -31,6 +31,11 @@ $ (sudo) npm install -g truffle
 > Third
 
 ```
+$ truffle unbox huarxia/truffle-vue
+```
+or
+
+```
 $ https://github.com/huarxia/truffle-vue.git
 $ cd truffle-vue
 ```

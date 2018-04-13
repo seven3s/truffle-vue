@@ -30,6 +30,11 @@ $ (sudo) npm install -g truffle
 > 第三步
 
 ```
+$ truffle unbox huarxia/truffle-vue
+```
+或者
+
+```
 $ https://github.com/huarxia/truffle-vue.git
 $ cd truffle-vue
 ```
