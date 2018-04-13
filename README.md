@@ -87,7 +87,7 @@ gulp deploy // Deploying smart contracts to ropsten using infura and run dev
 ### Thanks for these open source projects
 1. [truffle](https://github.com/trufflesuite/truffle)
 2. [Vue.js](http://vuejs.org/)
-3. [ganache-cli](https://github.com/trufflesuite/ganache-cli) 原testrpc
+3. [ganache-cli](https://github.com/trufflesuite/ganache-cli) After testrpc is renamed
 4. [gulp](http://gulpjs.com/)
 5. [webpack](https://webpack.github.io/)
 6. [infura.io](https://infura.io/)
