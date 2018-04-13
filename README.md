@@ -1,4 +1,4 @@
-![](static/logo.png)
+![](static/logo.png=256x115)
 
 ![](https://img.shields.io/github/stars/huarxia/truffle-vue.svg)
 ![](https://img.shields.io/github/forks/huarxia/truffle-vue.svg)
