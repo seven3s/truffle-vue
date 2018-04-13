@@ -1,17 +1,46 @@
-# Blueprint Truffle Box
+# USE Truffle-VUE Box
 
-This box comes with everything you need to create your own Truffle Box.
+This box is a Vue based solidity development framework.
 
 ## Getting Started
 
-After adding your libraries and code:
+### Install truffle
 
-1. Delete `box-img-sm.png` and `box-img-lg.png`.
+> First
 
-2. Use `box-img-sm-template.png` and `box-img-lg-template.png` to create your own art.
+```
+$ (sudo) npm install -g ethereumjs-testrpc
+```
 
-3. Delete the template images and replace them with your art. Be sure your art's filenames don't have -template in them.
+> Second
 
-4. Customize the box configuration file (`box-config.json`) if necessary.
+```
+$ (sudo) npm install -g truffle
+```
 
-See [the Truffle Box section of our documentation](http://truffleframework.com/) for more info.
+> Third
+
+```
+$ https://github.com/huarxia/truffle-vue.git
+```
+
+> Fourth
+
+```
+$ npm install
+```
+
+> Fifth new shell window
+ 
+```
+$ testrpc
+```
+> Sixth on current window
+
+```
+$ truffle compile
+$ truffle migration
+$ npm run dev
+```
+
+talk [bbs](https://bbs.myens.shop) for more info.
