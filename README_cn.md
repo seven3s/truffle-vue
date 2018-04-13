@@ -3,6 +3,8 @@
 ![](https://img.shields.io/github/issues/huarxia/truffle-vue.svg)
 ![](https://img.shields.io/github/license/huarxia/truffle-vue.svg)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/huarxia/truffle-vue.svg?style=social)](https://twitter.com/myens_shop)
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=social)](https://gitter.im/myens)
+
 # 使用 Truffle-VUE Box
 
 这是一个基于vue的solidity开发Dapp框架.
