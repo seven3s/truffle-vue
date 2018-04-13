@@ -1,43 +1,42 @@
-# USE Truffle-VUE Box
+# 使用 Truffle-VUE Box
 
-This box is a Vue based solidity Dapp development framework.
-[中文版文档](README_cn.md)
-
-## Getting Started
+这是一个基于vue的solidity开发Dapp框架.
+[English Doc](README.md)
+## 开箱使用
 
 ### Install truffle
 
-> First
+> 第一步
 
 ```
 $ (sudo) npm install -g ethereumjs-testrpc
 ```
 
-> Second
+> 第二步
 
 ```
 $ (sudo) npm install -g truffle
 ```
 
-> Third
+> 第三步
 
 ```
 $ https://github.com/huarxia/truffle-vue.git
 $ cd truffle-vue
 ```
 
-> Fourth
+> 第四步
 
 ```
 $ npm install
 ```
 
-> Fifth new shell window
+> 第五步 新开一个shell窗口
  
 ```
 $ testrpc
 ```
-> Sixth on current window
+> 第六步 回到刚才的 shell窗口
 
 ```
 $ truffle compile
