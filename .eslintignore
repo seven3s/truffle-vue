@@ -1,0 +1,6 @@
+build/*.js
+vue-build/*.js
+config/*.js
+node_modules/**/*.js
+.eslintrc.js
+src/common/lib/**/*.js
