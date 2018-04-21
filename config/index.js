@@ -32,6 +32,7 @@ module.exports = {
     // 1為本地 \ 0為代理
     mockLocal: 1,
     headers: {
+        host: 'localhost',
         cookie: 'cookie_user_key=xxxx' // 登陆的用户名==
     },
     remote: {
