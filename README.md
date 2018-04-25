@@ -55,7 +55,7 @@ $ testrpc
 
 ```
 $ truffle compile
-$ truffle migration
+$ truffle migrate
 $ npm run dev
 ```
 ### develop shell
@@ -68,7 +68,7 @@ $ truffle compile
 > migration
 
 ```
-$ truffle migration
+$ truffle migrate
 ```
 
 ## use gulp
