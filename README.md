@@ -110,4 +110,3 @@ gulp deploy // Deploying smart contracts to ropsten using infura and run dev
 ......
 
 by [huaxia](https://github.com/huarxia)
-talk [bbs](https://bbs.myens.shop) for more info.
